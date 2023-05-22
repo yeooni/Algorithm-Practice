@@ -1,10 +1,10 @@
 # [unrated] 문자열로 변환 - 181845 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181845) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181845?language=python3) 
 
 ### 성능 요약
 
-메모리: 80.3 MB, 시간: 5.52 ms
+메모리: 10.3 MB, 시간: 0.00 ms
 
 ### 구분
 
