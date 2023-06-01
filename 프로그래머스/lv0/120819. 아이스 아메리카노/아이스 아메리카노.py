@@ -1,2 +1,2 @@
 def solution(money):
-    return [int(money // 5500), money % 5500]
+    return divmod(money, 5500)
